@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#studentForm {
+    margin-bottom: 20px;
+}
+
+input, button {
+    margin: 5px;
+}
+
+#studentEntries {
+    margin-bottom: 20px;
+}
